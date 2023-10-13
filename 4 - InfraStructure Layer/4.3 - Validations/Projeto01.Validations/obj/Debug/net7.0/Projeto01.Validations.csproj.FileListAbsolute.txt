@@ -1,0 +1,11 @@
+/home/broonoh/dev/Coti/Projeto01/4 - InfraStructure Layer/4.3 - Validations/Projeto01.Validations/bin/Debug/net7.0/Projeto01.Validations.deps.json
+/home/broonoh/dev/Coti/Projeto01/4 - InfraStructure Layer/4.3 - Validations/Projeto01.Validations/bin/Debug/net7.0/Projeto01.Validations.dll
+/home/broonoh/dev/Coti/Projeto01/4 - InfraStructure Layer/4.3 - Validations/Projeto01.Validations/bin/Debug/net7.0/Projeto01.Validations.pdb
+/home/broonoh/dev/Coti/Projeto01/4 - InfraStructure Layer/4.3 - Validations/Projeto01.Validations/obj/Debug/net7.0/Projeto01.Validations.GeneratedMSBuildEditorConfig.editorconfig
+/home/broonoh/dev/Coti/Projeto01/4 - InfraStructure Layer/4.3 - Validations/Projeto01.Validations/obj/Debug/net7.0/Projeto01.Validations.AssemblyInfoInputs.cache
+/home/broonoh/dev/Coti/Projeto01/4 - InfraStructure Layer/4.3 - Validations/Projeto01.Validations/obj/Debug/net7.0/Projeto01.Validations.AssemblyInfo.cs
+/home/broonoh/dev/Coti/Projeto01/4 - InfraStructure Layer/4.3 - Validations/Projeto01.Validations/obj/Debug/net7.0/Projeto01.Validations.csproj.CoreCompileInputs.cache
+/home/broonoh/dev/Coti/Projeto01/4 - InfraStructure Layer/4.3 - Validations/Projeto01.Validations/obj/Debug/net7.0/Projeto01.Validations.dll
+/home/broonoh/dev/Coti/Projeto01/4 - InfraStructure Layer/4.3 - Validations/Projeto01.Validations/obj/Debug/net7.0/refint/Projeto01.Validations.dll
+/home/broonoh/dev/Coti/Projeto01/4 - InfraStructure Layer/4.3 - Validations/Projeto01.Validations/obj/Debug/net7.0/Projeto01.Validations.pdb
+/home/broonoh/dev/Coti/Projeto01/4 - InfraStructure Layer/4.3 - Validations/Projeto01.Validations/obj/Debug/net7.0/ref/Projeto01.Validations.dll

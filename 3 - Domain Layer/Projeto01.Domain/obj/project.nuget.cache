@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EBg6XawMrFBkVh5zC3+9/H4LRS/1itgthv92oK9dmY3WXC90/h+TZsxHY72EHyoZpcp4qzwOplAYwgBSgmVIEw==",
+  "success": true,
+  "projectFilePath": "/home/broonoh/dev/Coti/Projeto01/3 - Domain Layer/Projeto01.Domain/Projeto01.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/broonoh/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
