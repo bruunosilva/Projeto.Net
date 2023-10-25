@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "n25fKWkL/iTMqDwsyQCmoOFSppm6VRPN4oSjRB2wND/Ft7bt+HF8PpdtXLjcVzRMKhK6Rz9zqvZUtViNGwUUMQ==",
+  "dgSpecHash": "csNAa/FNEbdLJ6YQdqMZ4cultlnvqifxoMrLFKa+QN8r/QhlHsvNp0h6x77f9cvTpCoRvgbfKXdzila22jCcLQ==",
   "success": true,
   "projectFilePath": "/home/broonoh/dev/Coti/Projeto01/4 - InfraStructure Layer/4.1 - Data/Projeto01.Infra.Data.SqlServer/Projeto01.Infra.Data.SqlServer.csproj",
   "expectedPackageFiles": [

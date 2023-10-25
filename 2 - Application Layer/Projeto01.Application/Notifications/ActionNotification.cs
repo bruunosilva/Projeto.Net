@@ -1,6 +1,6 @@
 namespace Projeto01.Application.Notifications;
 
-public enum ActionNotifications
+public enum ActionNotification
 {
     Create = 1,
     Update = 2,
